@@ -1,3 +1,3 @@
 # portfolio
 Hi there!
-It's all about my pertfolio.
+It's all about my pertfolio!
